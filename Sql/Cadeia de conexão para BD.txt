@@ -1,0 +1,6 @@
+dawyearbook
+
+Database=dawyearA3JWRG8UN;Data 
+Source=br-cdbr-azure-south-a.cloudapp.net;
+User Id=bb7c243ce131f7;
+Password=da358e93;
